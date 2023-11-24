@@ -1,4 +1,4 @@
-# __ Some simple tasks using Python, pandas, numpy and matplotlib __
+# __Some simple tasks using Python, pandas, numpy and matplotlib__
 ## Done: __13th October 2023__
 ### Tasks:
 Baza danych z zestawami klocków LEGO - Rebrickable  
@@ -25,3 +25,5 @@ __Zadania do wykonania:__
 16. Wykres kołowy: “udział” danej serii (liczba zestawów) w roku urodzenia
 17. Wykresy na jednym ekranie: liczba zestawów z 3 określonych serii (np. Pirates I, Classic Town, Technic) w kolejnych latach
 18. (* - bardziej złożone) Zapis danych: Tabela w CSV, w której uwzględnione są tylko zestawy z ilością elementów >0, z nazwami serii zamiast id oraz bez kolumny url do zdjęć; posortowane rocznikami; a dane w rocznikach posortowane numerami zestawów. Kolumny w tabeli: rocznik, numer, nazwa, seria, ilość elementów.
+
+src: http://galaxy.agh.edu.pl/~miry/
