@@ -1,7 +1,7 @@
 # __Still working with pure Pandas__
 ## Done: __20th October 2023__
 ### Tasks:
-__Zadanie na zajęcia nr 3 - preprocessing: integracja, sprawdzanie, oczyszczanie, normalizacja danych__
+__Zadanie na zajęcia nr 3 - preprocessing: integracja, sprawdzanie, oczyszczanie, normalizacja danych__  
 W szkole średniej robiony jest prosty bilans uczniów - badanie wzrostu i wagi. Są 3 klasy - A, B, C, każda licząca ok. 15-25 os. Pomiary wykonują panie pielęgniarki Krysia, Marysia i Zbysia, każda dla innej klasy.
 Każda zapisuje wyniki w osobnej tabelce do pliku CSV. Ale jak to w polskiej szkole, każdy robi po swojemu i jedna zapisuje wzrost w metrach, druga w centymetrach, jedna zapisuje wagę jako liczbę całkowitą, druga jako zmiennoprzecinkową.
 jeszcze inna nie ma zainstalowanego Excela i robi to w notatniku, używając innych separatorów wartości i znaku dziesiętnego. W dodatku może się zdarzyć literówka i ktoś dostanie wzrost czterocyfrowy w cm, bo za długo wciśnie się klawisz 1 na starej 30-letniej klawiaturze. Żeby dopełnić katastrofy, trzech uczniów poszło na bilans drugi raz do innej klasy, żeby zwiać z lekcji, więc znajdują się na dwóch listach.
