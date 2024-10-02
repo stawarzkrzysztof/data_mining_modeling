@@ -17,9 +17,9 @@ out body;
 result = api.query(query)
 
 
-with open('data/poland_places.csv', 'w', newline='', encoding='utf-8') as f:
+with open('data/population.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
-    writer.writerow(["ID", "name", "population", "latitude", "longitude"])  # Write the header
+    writer.writerow(["ID", "name", "population", "latitude", "longitude"])
 
 
     for i, node in enumerate(result.nodes):
